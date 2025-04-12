@@ -65,6 +65,6 @@
 }
 
 body {
-  background-image: url("../dist/images/headerBgDesktop.png");
+  background-image: url(".././images/headerBgDesktop.png");
   background-repeat: no-repeat;
 }
